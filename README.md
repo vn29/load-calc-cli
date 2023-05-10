@@ -6,6 +6,8 @@ My goal was to make a simple tool for common quick calculations done typically b
 computing load combinations over tributary widths and areas. I've always felt there was something I could create that was somewhere in-between using excel or mathcad and a calculator.
 load-calc is my attempt at creating this.
 
+## how to run
+The script is extremely simple. If you have python 3 on your machine, simply run the script from the command line with `py load_calc_cli.py`.
 
 ## Examples
 Load-calc is intelligent about how loads come together. You simply enter a two letter appreviation of the load type followed by the load and load-calc-cli will record it.
