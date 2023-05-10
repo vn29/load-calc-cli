@@ -1,5 +1,6 @@
 # load-calc-cli
 A simple python CLI for managing quick load calculations.
+
 load-calc is a concept CLI tool written in less than 100 lines of python and with no 3rd party dependencies.
 I wrote it in a few hours as a Proof-of-Concept. 
 My goal was to make a simple tool for common quick calculations done typically by structural engineers while they are
